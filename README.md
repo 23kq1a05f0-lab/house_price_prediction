@@ -92,7 +92,7 @@ The app uses *Machine Learning (Linear Regression)* to estimate the price instan
 
 ### 4️⃣ Who created it
 
-👤 *Created by:* Venkata Dharani Neeli
+👤 *Created by:* .......................
 💡 As part of a Machine Learning mini project using Python & Streamlit.
 
 ---
