@@ -2,7 +2,7 @@
 
 
 
-## 🏗️ Folder Structure
+  ## 🏗️ Folder Structure
 
 HousePricePrediction/
 │
